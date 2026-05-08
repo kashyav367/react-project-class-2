@@ -15,4 +15,20 @@ npm install
 npm run dev
 ```
 
+# React Project 2
+
+This repository is for practice — Sunday class.
+
+Purpose
+- backend and frontend fetching using axios
+
+---
+
+How to run
+```
+npm install
+npm run dev
+```
+
 Feel free to update this README with your class notes and exercise results.
+
