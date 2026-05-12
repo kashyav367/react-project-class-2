@@ -1,10 +1,18 @@
-import { createFileRoute } from '@tanstack/react-router'
+// import { createFileRoute } from '@tanstack/react-router'
 
-export const Route = createFileRoute('/Index')({
-  component: Index,
-})
+// export const Route = createFileRoute('/Index')({
+//   component: Index,
+// })
 
-function Index() {
+// function Index() {
+//   return (
+//     <div className="p-2">
+//       <h3>Welcome Home!</h3>
+//     </div>
+//   )
+// }
+
+export default function Index() {
   return (
     <div className="p-2">
       <h3>Welcome Home!</h3>
